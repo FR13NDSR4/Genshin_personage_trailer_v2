@@ -58,9 +58,9 @@ def li_yue():
     Cici_button.place(x=150, y=200)
     Xiao_button = CTkButton(master=frame_1, text="Xiao", command=li_yue2, fg_color="brown")
     Xiao_button.place(x=150, y=240)
-    HuTao_button = CTkButton(master=frame_1, text="Venti", command=li_yue3, fg_color="brown")
+    HuTao_button = CTkButton(master=frame_1, text="HuTao", command=li_yue3, fg_color="brown")
     HuTao_button.place(x=150, y=280)
-    Zhongli_button = CTkButton(master=frame_1, text="Klee", command=li_yue4, fg_color="brown")
+    Zhongli_button = CTkButton(master=frame_1, text="Zhongli", command=li_yue4, fg_color="brown")
     Zhongli_button.place(x=150, y=320)
 
 
